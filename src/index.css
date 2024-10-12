@@ -245,3 +245,46 @@ main {
 .material-symbols-outlined {
   font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
 }
+
+.MuiPaper-root {
+  border-radius: 8px;
+  border: 2px solid #e6e8eb;
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.04);
+}
+.MuiMenuItem-root {
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: -0.4px;
+  padding: 12px 20px;
+  color: #555;
+}
+
+@media screen and (min-width: 1441px) and (max-width: 2280px) {
+  .MuiPaper-root {
+    border-radius: 8px;
+    border: 2px solid #e6e8eb;
+    box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.04);
+  }
+  .MuiMenuItem-root {
+    font-weight: 400;
+    letter-spacing: -0.4px;
+    color: #555;
+    font-size: 16px;
+    padding: 10px 18px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .MuiPaper-root {
+    border-radius: 8px;
+    border: 2px solid #e6e8eb;
+    box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.04);
+  }
+  .MuiMenuItem-root {
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    padding: 12px 20px;
+    color: #555;
+  }
+}

@@ -1,11 +1,11 @@
 import styled from "styled-components";
-import colors from "constants/colors";
+import colors from "@/constants/colors";
 
 const Header: React.FC = () => {
   return (
     <StyledHeader>
       <div className="logo-container">
-        <img src="images/logo.svg" alt="logo" />
+        <img src="vite.svg" alt="logo" />
       </div>
     </StyledHeader>
   );
@@ -24,7 +24,7 @@ const StyledHeader = styled.header`
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid ${colors.basic850};
-  background-color: #fff;
+  background-color: ${colors.white};
   .logo-container {
     padding: 26px 80px;
   }

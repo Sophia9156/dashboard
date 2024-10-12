@@ -16,7 +16,7 @@ const colors = {
 
   primary100: "#4C7BFF",
   primary200: "#7091FF",
-  primaryHover: "#1A4FFF",
+  primaryHover: "#3157ff",
   primaryPressed: "#003BFF",
 
   stateError: "#A24235",
@@ -25,8 +25,11 @@ const colors = {
   dashboardBlue: "#0E63FE",
   dashboardPink: "#9840CC",
 
-  bgBasic: "#F6F8FF",
+  bgBasic: "#ffffffcc",
   bgModal: "#0C0C0EB2",
+  boxShadow: "rgba(0, 0, 0, 0.08)",
+
+  cityTitle: "rgba(255, 255, 255, 0.8)",
 };
 
 export default colors;

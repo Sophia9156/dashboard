@@ -1,5 +1,5 @@
 import json from "../data.json";
-import { ramenLabel, genderLabel, ageLabel } from "constants/data";
+import { ramenLabel, genderLabel, ageLabel } from "@/constants/data";
 
 export const getRamenTotal: (
   countryParam: CountryUnion,
