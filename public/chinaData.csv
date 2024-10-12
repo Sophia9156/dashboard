@@ -1,0 +1,4 @@
+name,lat,lng,scan,color,hover,selectedColor
+Beijing,40,116.38,1,#7091FF,able,#003BFF
+Shanghai,31.23,121.469,1,#7091FF,able,#003BFF
+Guangzhou,23.05,113.258,1,#7091FF,able,#003BFF

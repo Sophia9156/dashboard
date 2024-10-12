@@ -1,0 +1,5 @@
+name,lat,lng,scan,color,hover,selectedColor
+Korea,37.541,126.986,1,#7091FF,able,#003BFF
+US,37,-93,1,#7091FF,able,#003BFF
+Japan,35.6895,139.6917,1,#7091FF,able,#003BFF
+China,39.9075,116.3972,1,#7091FF,able,#003BFF

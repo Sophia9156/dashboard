@@ -1,0 +1,4 @@
+name,lat,lng,scan,color,hover,selectedColor
+New York,42,-74,1,#7091FF,able,#003BFF
+Los Angeles,34,-118.41,1,#7091FF,able,#003BFF
+Chicago,41.52,-87.37,1,#7091FF,able,#003BFF

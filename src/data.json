@@ -1,0 +1,2550 @@
+{
+  "country": [
+    {
+      "countryName": "Korea",
+      "countryLabel": "🇰🇷 Korea",
+      "city": [
+        {
+          "cityName": "Seoul",
+          "cityLabel": "🇰🇷 Seoul",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 177
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 193
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 132
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 20
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 173
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 170
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 109
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 29
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 16
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 169
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 151
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 109
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 17
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 160
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 151
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 109
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 17
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 165
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 143
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 96
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 15
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 153
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 146
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 95
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 10
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 148
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 137
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 127
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 139
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 127
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 120
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Busan",
+          "cityLabel": "🇰🇷 Busan",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 51
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 55
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 38
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 11
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 49
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 40
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 48
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 43
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 47
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 36
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 36
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 10
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 55
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Daegu",
+          "cityLabel": "🇰🇷 Daegu",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 25
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 28
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 30
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 2
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 2
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 25
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 2
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "countryName": "US",
+      "countryLabel": "🇺🇸 US",
+      "city": [
+        {
+          "cityName": "New York",
+          "cityLabel": "🇺🇸 New York",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 177
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 193
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 132
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 20
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 173
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 170
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 109
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 29
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 16
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 169
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 151
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 109
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 17
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 160
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 151
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 109
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 17
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 165
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 143
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 96
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 15
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 153
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 146
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 95
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 10
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 148
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 137
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 127
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 139
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 127
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 120
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Los Angeles",
+          "cityLabel": "🇺🇸 Los Angeles",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 51
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 55
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 38
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 11
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 49
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 40
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 48
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 43
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 47
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 36
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 36
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 10
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 55
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Chicago",
+          "cityLabel": "🇺🇸 Chicago",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 25
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 28
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 30
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 27
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 2
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 2
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 25
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 2
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "countryName": "Japan",
+      "countryLabel": "🇯🇵 Japan",
+      "city": [
+        {
+          "cityName": "Tokyo",
+          "cityLabel": "🇯🇵 Tokyo",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 88
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 99
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 54
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 87
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 79
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 7
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 79
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 71
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 81
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 53
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 11
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 82
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 65
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 28
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 15
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 77
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 71
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 28
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 12
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 79
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 69
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 54
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 9
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 73
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 66
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 49
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 44
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 20
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Osaka",
+          "cityLabel": "🇯🇵 Osaka",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 44
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 51
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 7
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 44
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 8
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 7
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 32
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 11
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 32
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 7
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 24
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Sapporo",
+          "cityLabel": "🇯🇵 Sapporo",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 44
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 51
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 8
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 48
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 43
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 9
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 2
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 11
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 7
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 32
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 44
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 37
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 14
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 40
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 29
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 25
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 9
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "countryName": "China",
+      "countryLabel": "🇨🇳 China",
+      "city": [
+        {
+          "cityName": "Beijing",
+          "cityLabel": "🇨🇳 Beijing",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 61
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 67
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 40
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 8
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 53
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 56
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 52
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 8
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 54
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 20
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 54
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 22
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 49
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 43
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 48
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 35
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 3
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 4
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 38
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 11
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 9
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Shanghai",
+          "cityLabel": "🇨🇳 Shanghai",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 44
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 46
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 38
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 42
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 6
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 9
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 9
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 37
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 43
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 7
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 8
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 36
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 2
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 7
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 26
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 9
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, {
+          "cityName": "Guangzhou",
+          "cityLabel": "🇨🇳 Guangzhou",
+          "ramen": [
+            {
+              "ramenName": "신라면",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 37
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 39
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 16
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 18
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 10
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 54
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 34
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 5
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "짜파게티",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 61
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 50
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 24
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 55
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 19
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 11
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 15
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "육개장",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 41
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 31
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 9
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 8
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 38
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 11
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 12
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 5
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "ramenName": "너구리",
+              "gender": [
+                {
+                  "genderName": "남",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 33
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 21
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 10
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }, {
+                  "genderName": "여",
+                  "age": [
+                    {
+                      "ageTitle": "10대",
+                      "total": 23
+                    }, {
+                      "ageTitle": "20대",
+                      "total": 17
+                    }, {
+                      "ageTitle": "30대",
+                      "total": 13
+                    }, {
+                      "ageTitle": "40대",
+                      "total": 4
+                    }, {
+                      "ageTitle": "50대",
+                      "total": 6
+                    }, {
+                      "ageTitle": "60대",
+                      "total": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
